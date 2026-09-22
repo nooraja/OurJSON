@@ -1,0 +1,302 @@
+{
+    "errors": null,
+    "message": "",
+    "data": [
+        {
+            "metric_key": "technical",
+            "id": 2,
+            "title": "Technical",
+            "sort_order": 1,
+            "metadata": null,
+            "children": [
+                {
+                    "metric_key": "price",
+                    "id": 1657,
+                    "title": "Last Price",
+                    "sort_order": 1,
+                    "metadata": {
+                        "type": "INTEGER",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "sma_5",
+                    "id": 1658,
+                    "title": "MA5",
+                    "sort_order": 2,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "sma_10",
+                    "id": 1659,
+                    "title": "MA10",
+                    "sort_order": 3,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "sma_20",
+                    "id": 1660,
+                    "title": "MA20",
+                    "sort_order": 4,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "sma_50",
+                    "id": 1661,
+                    "title": "MA50",
+                    "sort_order": 5,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "ema_5",
+                    "id": 1662,
+                    "title": "EMA5",
+                    "sort_order": 6,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "ema_10",
+                    "id": 1663,
+                    "title": "EMA10",
+                    "sort_order": 7,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "ema_20",
+                    "id": 1664,
+                    "title": "EMA20",
+                    "sort_order": 8,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "ema_50",
+                    "id": 1665,
+                    "title": "EMA50",
+                    "sort_order": 9,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "rsi_14",
+                    "id": 1666,
+                    "title": "RSI(14)",
+                    "sort_order": 10,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "stoch_k",
+                    "id": 1667,
+                    "title": "Stoch %K",
+                    "sort_order": 11,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "macd_line",
+                    "id": 1668,
+                    "title": "MACD Line",
+                    "sort_order": 12,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "macd_signal",
+                    "id": 1669,
+                    "title": "MACD Signal",
+                    "sort_order": 13,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "macd_hist",
+                    "id": 1670,
+                    "title": "MACD Histogram",
+                    "sort_order": 14,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "bb_upper",
+                    "id": 1671,
+                    "title": "BB Upper (20,2)",
+                    "sort_order": 15,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "bb_lower",
+                    "id": 1672,
+                    "title": "BB Lower (20,2)",
+                    "sort_order": 16,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "percent_b",
+                    "id": 1673,
+                    "title": "%B",
+                    "sort_order": 17,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "atr",
+                    "id": 1674,
+                    "title": "ATR(14)",
+                    "sort_order": 18,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "atr_pct",
+                    "id": 1675,
+                    "title": "ATR% (14)",
+                    "sort_order": 19,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "PERCENT"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "avg_value_20d",
+                    "id": 1676,
+                    "title": "Avg Daily Value (20D)",
+                    "sort_order": 20,
+                    "metadata": {
+                        "type": "INTEGER",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "avg_volume_20d",
+                    "id": 1677,
+                    "title": "Avg Volume (20D)",
+                    "sort_order": 21,
+                    "metadata": {
+                        "type": "INTEGER",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "frequency",
+                    "id": 1678,
+                    "title": "Frequency (Intraday)",
+                    "sort_order": 22,
+                    "metadata": {
+                        "type": "INTEGER",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "price_chg_pct",
+                    "id": 1679,
+                    "title": "%Change (Intraday)",
+                    "sort_order": 23,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "PERCENT"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "return_5d",
+                    "id": 1680,
+                    "title": "5D Return",
+                    "sort_order": 24,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "PERCENT"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "return_1m",
+                    "id": 1681,
+                    "title": "1M Return",
+                    "sort_order": 25,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "PERCENT"
+                    },
+                    "children": []
+                },
+                {
+                    "metric_key": "beta_ihsg",
+                    "id": 1682,
+                    "title": "Beta vs IHSG",
+                    "sort_order": 26,
+                    "metadata": {
+                        "type": "DECIMAL",
+                        "unit": "NUMBER"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "status_code": 200
+}
